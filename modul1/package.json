@@ -1,0 +1,18 @@
+{
+  "name": "ngoding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tes.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13",
+    "semantic-ui-css": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "nodemon": "nodemon tes.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
