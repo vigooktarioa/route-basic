@@ -1,1 +1,1 @@
-learn how to use route on React.
+learning how to use route on React.
